@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "celilcavus.dotent.areasex/1.0.0": {
+        "runtime": {
+          "celilcavus.dotent.areasex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "celilcavus.dotent.areasex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

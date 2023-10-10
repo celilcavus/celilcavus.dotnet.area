@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\celilcavus.dotent.areasex.props" />
+</Project>
